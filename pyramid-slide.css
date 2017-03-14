@@ -1,0 +1,52 @@
+#pyramid {
+    line-height: 0;
+    font-size: 30px;
+    color: #990099;
+}
+
+body {
+    font-family: "Courier New", monospace;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+td{
+    padding: 1cm;
+}
+th {
+    text-align: center;
+    background-color: #990099;
+    margin: 2cm 5cm 5cm 5cm;
+    color: #b8b8b8;
+    font-family: cursive;
+    font-weight: bolder;
+    padding: 1cm;
+    font-size: 30px;
+}
+table table{
+    border-collapse: collapse;
+    background-color: 	#B8B8B8 ;
+    border: solid #990099;
+    border-radius: 5px;
+}
+
+table{
+
+    background-color: #F0F0F0  ;
+}
+#pyramid-container {
+    background-color: lightgrey;
+
+}
+#display-height {
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#material{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 20px;
+}
